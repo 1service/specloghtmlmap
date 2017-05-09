@@ -6,6 +6,7 @@ map for speclog html report
  ![open report](img/image1.png)
 3. Insert content of speclogMapBuilder.js after </script>
  ![open report](img/image2.png)
-4. Now you can view map of workspace like in desktop app
+4. Now you can view map of workspace like in desktop app:
+
  ![open report](img/image3.png)
  ![open report](img/image4.png)
