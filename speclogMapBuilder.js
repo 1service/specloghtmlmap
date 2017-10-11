@@ -1,6 +1,6 @@
 <script>
 
-// handler   onload event
+// handler   onload   event
 $(window).load(function() {
     $("label[for='showRelations']").text($("label[for='showRelations']").text() + " and map");
     $(".expander").hide();
